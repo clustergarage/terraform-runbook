@@ -10,7 +10,14 @@ Welcome to Terraform Guides's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   intro
+   workflows
+   workspaces
+   patterns
+   anti-patterns
+   modules
+   adoption
+   providers
 
 Indices and tables
 ==================
