@@ -1,7 +1,7 @@
 Introduction
 ============
 
-The genesis of this document came out of conversations with HashiCorp `Terraform <https://terraform.io>`_  users and contributors. While there are good examples of building out Terraform Open Source (TF OSS) and scaffolding around it, there was not readily available best-practices guides to set users and organizations up for success as they mature. 
+The genesis of this document came out of conversations with HashiCorp `Terraform <https://terraform.io>`_  users and contributors. There are several good examples of building out Terraform Open Source (TF OSS) and scaffolding around it.  This guide builds on that work to deliver a clear and concise set of best-practices to set users and organizations up for success as they mature. 
 
 Objectives
 ----------
