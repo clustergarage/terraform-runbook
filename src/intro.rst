@@ -8,8 +8,8 @@ Objectives
 
 The objectives of this document are to:
 
-1. Define common :ref:`workflows <workflows>` that Terraform enables
-2. Discuss how :ref:`Terraform workspaces <workspaces>` enables these workflows and support long-term adoption
+1. Define common :ref:`workflows <workflows>` that Terraform Cloud and Enterprise enable
+2. Discuss how :ref:`Terraform workspaces <workspaces>` enables these workflows and support long-term adoption from Terraform OSS to TFC or TFE
 3. Recommendations and reasoning behind successful :ref:`patterns <patterns>` with HashiCorp Terraform and Version Control
 4. :ref:`Anti-patterns <anti-patterns>` and reasoning behind why these may be challenging over time
 5. Utilizing Terraform :ref:`modules <modules>` to enable a producer/consumer model
